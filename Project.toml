@@ -3,6 +3,9 @@ uuid = "34a1fd79-d41a-41aa-b43a-54d4d2e32b3e"
 authors = ["Zoe McCarthy <zoemccarthy12@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
+
 [compat]
 julia = "1"
 
